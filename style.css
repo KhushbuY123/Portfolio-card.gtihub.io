@@ -229,7 +229,7 @@ body{
 /* Responsive Design */
 @media(max-width:768px){
     .about{
-        width: 1005;
+        width: 1000;
         max-width: 390px;
         padding: 1rem;
         margin: 1rem;
