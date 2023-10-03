@@ -229,8 +229,8 @@ body{
 /* Responsive Design */
 @media(max-width:768px){
     .about{
-        width: 1000;
-        max-width: 390px;
+        width: 1005;
+        max-width: 300px;
         padding: 1rem;
         margin: 1rem;
     }
